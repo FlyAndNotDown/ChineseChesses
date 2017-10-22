@@ -1,3 +1,9 @@
-# ChineseChesses
-## About
-A project of me. it's a code repository about Chinese Chesses. It was writen when I was 19, and that time I had just down the study of C++. Though now I can wtite a better version , but I still want push it to GitHub. Any question, please try to contract with me.
+# ChineseChesses 双人中国象棋
+## 是什么
+C++ 课程设计，在大一的时候写的，用到了面向对象的编程思路、Windows 编程技术、GDI 绘图等
+
+## 怎么使用
+```
+git clone https://github.com/FlyAndNotDown/ChineseChesses.git
+```
+编译所有的文件即可
